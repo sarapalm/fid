@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+ <title>House Plants</title>
+ <style>
+   td { border:ridge 2px #854f2b; padding: 3px; }
+   th { border:ridge 2px #61371; padding: 3px; }
+   table { border:ridge 6px #8FCA5C; background-color: #C28340;}
+ </style>
+
+</head>
+
+<body>
+<font size="3" face="Sans Serif">
+   <table>
+   <tbody><tr>
+           <th><h3>Name</h3></th>
+           <th><h3>Light</h3></th>
+           <th><h3>Temperature</h3></th>
+           <th><h3>Fertilizer</h3></th>
+           <th><h3>Water</h3></th>
+           <th><h3>Growth</h3></th>
+
+</tr>
+
+<tr>
+    <td align="center"><h4>Golden Pothos</h4><p><img src="Goldenpothos.jpg" alt="Golden Pothos" height="100" width="100"></p></td>
+    <td align="center">Low to high light</td>
+    <td align="center">Keep above 50 degrees</td>
+    <td align="center">Fertilize every 2-4 months</td>
+    <td align="center">Every 1-2 weeks</td>
+    <td align="center">Can grow up to a foot each month</td>
+</tr>
+
+<tr>
+    <td align="center"><h4>Chinese Evergreen</h4><p><img src="chineseevergreen.jpg" alt="chinese evergreen" height="100" width="100"></p></td>
+    <td align="center">Low Light </td>
+    <td align="center">Keep above 60 degrees </td>
+    <td align="center">Fertilize every 6 months</td>
+    <td align="center"> Water when dry </td>
+    <td align="center"> Up to three feet </td>
+</tr>
+
+<tr>
+    <td align="center"><h4>Chinese Money Plant</h4><p><img src="chinesemoneyplant.jpg" alt="chinese money plant" height="100" width="100"></p></td>
+    <td align="center">Medium light</td>
+    <td align="center">Keep above 50 degrees </td>
+    <td align="center"> Once a month</td>
+    <td align="center">Once a week</td>
+    <td align="center"> Up to 12 inches </td>
+</tr>
+
+<tr>
+    <td align="center"><h4>Spider Plant</h4><p><img src="spiderplant.jpg" alt="spider plant" height="100" width="100"></p></td>
+    <td align="center">Low light </td>
+    <td align="center">Can tolerate 35 degrees without damage </td>
+    <td align="center"> Every two weeks </td>
+    <td align="center">Once a week </td>
+    <td align="center"> 12 to 15 inches </td>
+</tr>
+
+<tr>
+    <td align="center"><h4>Aloe</h4><p><img src="aloe.jpg" alt="aloe" height="100" width="100"></p></td>
+    <td align="center">Low light </td>
+    <td align="center"> Keep above 50 degrees </td>
+    <td align="center">Once a year (not required)</td>
+    <td align="center">Every three weeks </td>
+    <td align="center"> Up to 100 centimeters </td>
+</tr>
+
+<tr>
+    <td align="center"><h4>Philodendron</h4><p><img src="Philodendron.jpg" alt="Philodendron" height="100" width="100"></p></td>
+    <td align="center">Medium light</td>
+    <td align="center">Keep above 60 degrees </td>
+    <td align="center">Every three to four months </td>
+    <td align="center"> Every one to two weeks </td>
+    <td align="center">Up to three feet </td>
+</tr>
+
+<tr>
+    <td align="center"><h4>Snake Plant</h4><p><img src="snakeplant.jpg" alt="snake plant" height="100" width="100"></p></td>
+    <td align="center">Low to high light </td>
+    <td align="center">Keep above 60 degrees </td>
+    <td align="center">Doesn't require fertilizer</td>
+    <td align="center">Water when soil is dry</td>
+    <td align="center">Can grown from 6 inches to 12 feet </td>
+</tr>
+
+<tr>
+    <td align="center"><h4>Calathea</h4><p><img src="calathea.jpg" alt="calathea" height="100" width="100"></p></td>
+    <td align="center">Medium light </td>
+    <td align="center">Keep above 65 degrees </td>
+    <td align="center">Doesn't require fertilizer </td>
+    <td align="center">Every one to two weeks </td>
+    <td align="center"> Up to two feet </td>
+</tr>
+
+</tbody></table>
+
+</font></body>
+
+
+</body>
+</html>
+
+
+  
